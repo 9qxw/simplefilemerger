@@ -1,4 +1,4 @@
-# Lightweight File Merger
+# simple file merger
 
 merge two files into a single launcher locally, fully offline. works with most file types that can be executed/opened.
 
@@ -10,6 +10,6 @@ precompiled `merger.exe` is available in the [releases](https://github.com/9qxw/
 ## ⚡ how to use
 ![tutorial](https://github.com/user-attachments/assets/acd0d9c2-941a-4387-b290-95226db9fab7)
 
-## 🪪 License
+## 🪪 license
 
 MIT License — do whatever you want with it
