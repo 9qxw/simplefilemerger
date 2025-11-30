@@ -6,12 +6,10 @@ merge two files into a single launcher locally, fully offline. works with most f
 
 precompiled `merger.exe` is available in the [releases](https://github.com/9qxw/simplefilemerger/releases) section—no Rust setup needed.  
 
-## ⚡ usage
+   
+## ⚡ how to use
+![tutorial](https://github.com/user-attachments/assets/acd0d9c2-941a-4387-b290-95226db9fab7)
 
-### if you use the precompiled exe:
+## 🪪 License
 
-1. download `merger.exe` from the releases.  
-2. open a terminal in the folder with your files **or** just drag 2 files onto `merger.exe`.  
-3. run the exe with **exactly 2 files** as arguments:  
-   ```bash
-   merger.exe file1 file2
+MIT License — do whatever you want with it
